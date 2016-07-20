@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 edit ww.txt
 On github.com!
-Creating a new branch is quick.
-edit readme.txt again!
+Creating a new branch is quick AND simple.
